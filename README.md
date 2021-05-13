@@ -15,17 +15,17 @@ The cosine similarity is advantageous because even if the two similar documents 
 
 The dataset's structure is like:
 
-__ad -__ _The name of eating_
+__ad -__ _The name of meal_
 
-__terkibi -__ _Ingredients of eating_
+__terkibi -__ _Ingredients of meal_
 
 __hazirlanmasi -__ _How to make_
 
-__img_url -__  _The image of eating_
+__img_url -__  _The image of meal_
 
-__label -__ _The type of eating_
+__label -__ _The type of meal_
 
-__yemek_id -__ _unique identifier of each eating_
+__yemek_id -__ _unique identifier of each meal_
 
 
 When user write down ingredients that he/she has, we split it into a list of words by using text to word sequence() function that provided by Keras. By
