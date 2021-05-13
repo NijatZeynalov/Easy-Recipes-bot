@@ -41,3 +41,8 @@ You can change any of these defaults by passing arguments to the function.
 
 After splitting user message into a list of words, our similarity function compare it with __terkibi__ feature and determine the most similiar eating. Then our telegram bot sends this eating's name, "how to make", and image to user. The example answer is below:
 
+
+![](https://github.com/NijatZeynalov/Easy-Recipes-bot/blob/master/example%20answers/example1.jpeg)
+
+
+![](https://github.com/NijatZeynalov/Easy-Recipes-bot/blob/master/example%20answers/example2.jpeg)
