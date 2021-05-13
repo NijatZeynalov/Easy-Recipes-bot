@@ -44,6 +44,6 @@ After splitting user message into a list of words, our similarity function compa
 
 ![](https://github.com/NijatZeynalov/Easy-Recipes-bot/blob/master/example%20answers/example1.jpeg)
 
-.
+Or
 
 ![](https://github.com/NijatZeynalov/Easy-Recipes-bot/blob/master/example%20answers/example2.jpeg)
