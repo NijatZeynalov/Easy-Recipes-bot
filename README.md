@@ -37,8 +37,7 @@ default, this function automatically does 3 things:
 
 - [x] Converts text to lowercase (lower=True).
 
-You can change any of these defaults by passing arguments to the function. Below is an example of using the text to word sequence() function to split a document (in this case a
-simple string) into a list of words.
+You can change any of these defaults by passing arguments to the function.
 
 After splitting user message into a list of words, our similarity function compare it with __terkibi__ feature and determine the most similiar eating. Then our telegram bot sends this eating's name, "how to make", and image to user. The example answer is below:
 
