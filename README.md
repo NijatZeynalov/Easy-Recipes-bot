@@ -47,3 +47,6 @@ After splitting user message into a list of words, our similarity function compa
 Or
 
 ![](https://github.com/NijatZeynalov/Easy-Recipes-bot/blob/master/example%20answers/example2.jpeg)
+
+
+Currently, the bot can sometimes give wrong answers due to text similarity method, so I did not put it into production. This project is to be continued, I am frequently compare the most popular ways of computing sentence similarity and investigate how they perform.
