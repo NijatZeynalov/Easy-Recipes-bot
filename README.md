@@ -1,7 +1,7 @@
 # Easy Recipes bot
 This telegram bot recommends easy recipes in Azerbaijani using ingredients you already have in the kitchen.
 
-I have used text similarity method in order to determine how ‘close’ user message and our text. The big idea is that we represent documents as vectors of features, and compare documents by measuring the distance between these features. I have tried a few similarity methods, but after some experiments, I have chosen Cosine similarity method. As a dataset, I have fully scraped __dadli.az__ website. You can find whole dataset in data folder.
+I have used text similarity method in order to determine how ‘close’ user message and our text. The big idea is that we represent documents as vectors of features, and compare documents by measuring the distance between these features. I have tried a few similarity methods, but after some experiments, I have chosen Cosine similarity method. As a dataset, I have fully scraped __dadli.az__ website (2400 + recip.). You can find whole dataset in data folder.
 
 ![Cosine](https://miro.medium.com/max/426/1*5J8YlnfnZlzFobQC9cGk-w.png)
 
