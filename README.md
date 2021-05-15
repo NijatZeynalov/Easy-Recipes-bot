@@ -1,6 +1,6 @@
 # Easy Recipes bot
 
-Just write down your ingredients and this bot instantly finds matching recipes!
+Just write down your ingredients and this bot instantly finds the matching recipes!
 
 This telegram bot recommends easy recipes in Azerbaijani using ingredients you already have in the kitchen.
 
