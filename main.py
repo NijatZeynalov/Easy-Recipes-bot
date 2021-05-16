@@ -1,11 +1,11 @@
 import warnings
-warnings.filterwarnings('ignore')
 from similiarity import compare_txt
 import time
-TOKEN = 'your token'
-import telebots
+import telebot
 from telebot import types
 
+warnings.filterwarnings('ignore')
+TOKEN = 'your token'
 
 bot = telebot.TeleBot(TOKEN)
 print(bot)
